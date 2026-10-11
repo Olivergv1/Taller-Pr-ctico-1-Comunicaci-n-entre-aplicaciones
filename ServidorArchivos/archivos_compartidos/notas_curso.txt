@@ -1,0 +1,13 @@
+NOTAS DEL CURSO - SISTEMAS DISTRIBUIDOS
+
+Semana 1: Introducción a los Sistemas Distribuidos
+
+Semana 2: Comunicación entre Procesos
+
+
+Semana 3: Hilos y Concurrencia
+
+
+Semana 4: Transferencia de Archivos
+
+

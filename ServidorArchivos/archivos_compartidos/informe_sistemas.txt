@@ -1,0 +1,19 @@
+SISTEMAS DISTRIBUIDOS
+Universidad Técnica de Manabí
+
+Fecha: Octubre 2026
+Materia: Sistemas Distribuidos
+Semestre: Octavo
+
+
+Los sistemas distribuidos son un conjunto de computadoras
+independientes que se presentan al usuario como un sistema
+único y coherente. La comunicación entre procesos es
+fundamental para el funcionamiento de estos sistemas.
+
+
+SOCKETS TCP/IP
+Los sockets son el mecanismo fundamental para la
+comunicación entre procesos a través de la red.
+TCP (Transmission Control Protocol) garantiza la
+entrega ordenada y confiable de los datos.
